@@ -2,6 +2,7 @@
 <section class="content-header">
     <h1>
         文章列表
+        <small>采用Bootstrap-table组件，服务器分页，pageHelper</small>
     </h1>
     <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> 主页</a></li>
