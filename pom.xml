@@ -180,6 +180,12 @@
             <artifactId>guava</artifactId>
             <version>25.1-jre</version>
         </dependency>
+        <!--Hutool工具包-->
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>4.1.9</version>
+        </dependency>
     </dependencies>
 
 
